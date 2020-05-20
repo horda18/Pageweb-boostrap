@@ -1,3 +1,3 @@
 # Pageweb-bootstrap
 bootstrap
-example first
+example second
